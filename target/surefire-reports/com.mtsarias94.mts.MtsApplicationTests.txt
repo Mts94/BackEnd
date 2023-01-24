@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mtsarias94.mts.MtsApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.646 s - in com.mtsarias94.mts.MtsApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 91.17 s - in com.mtsarias94.mts.MtsApplicationTests
